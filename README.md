@@ -4,9 +4,9 @@
 - 🖊️ Formação em: Redes de Computadores, WebDesigner 
 - 💎 Analista de Infraestrutura
 - 🌱 Estou Estudando ADVPL
-- 👯 Trabalho na Agencia Oasis Digital
+- 👯 Trabalho na Agencia Oasis Digital / Upduo Consultoria Protheus
 - 💬 Contate-me em: anderson_np2010@hotmail.com
-- 🌈 Pronome: Ele/Dele
+
 
 <div align="center">
   <a href="https://github.com/andersonvixx">
