@@ -4,7 +4,7 @@
 - 🖊️ Formação em: Redes de Computadores, WebDesigner 
 - 💎 Analista de Infraestrutura
 - 🌱 Estou Estudando ADVPL
-- 👯 Trabalho na Agencia Oasis Digital / Upduo Consultoria Protheus
+- 👯 Trabalho na Upduo Consultoria Protheus
 - 💬 Contate-me em: anderson_np2010@hotmail.com
 
 
