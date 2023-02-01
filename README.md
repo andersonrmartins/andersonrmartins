@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/andersonvixx">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andersonvixx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonvixx&layout=top&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andersonrmartins&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrmartins&layout=top&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg">
@@ -24,7 +24,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="right" alt="Anderson-vixx" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/953281288012460105/972340391200309318/IMG_7351-removebg-preview.png">
+  <img align="right" alt="andersonrmartins" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/953281288012460105/972340391200309318/IMG_7351-removebg-preview.png">
 </div>
   
   ##
