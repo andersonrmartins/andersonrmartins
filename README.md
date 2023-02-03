@@ -1,9 +1,7 @@
 ### Olá! Eu sou o Anderson Martins 👋
 
-- 🔭 Hoje Trabalho como Consultor Protheus e Analista de Desenvolvimento
-- 🖊️ Formação em: Redes de Computadores, WebDesigner 
+- 🖊️ Formação em: Redes de Computadores
 - 💎 Analista de Infraestrutura
-- 🌱 Participante MiniCamp Programação Básica @xpeducacao
 - 👯 Trabalho na Upduo Consultoria Protheus
 - 💬 Contate-me em: anderson_np2010@hotmail.com
 
