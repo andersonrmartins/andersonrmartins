@@ -3,7 +3,7 @@
 - 🔭 Hoje Trabalho como Consultor Protheus e Analista de Desenvolvimento
 - 🖊️ Formação em: Redes de Computadores, WebDesigner 
 - 💎 Analista de Infraestrutura
-- 🌱 Estou Estudando ADVPL
+- 🌱 Participante MiniCamp Programação Básica @xpeducacao
 - 👯 Trabalho na Upduo Consultoria Protheus
 - 💬 Contate-me em: anderson_np2010@hotmail.com
 
